@@ -1,7 +1,7 @@
 # Máquina Virtual "Escolares CTF" para Pentesting en DockerLabs
 ![image](https://github.com/TLuisillo/Escolares_Lab_CTF/assets/82132216/0fb0edbb-60ef-49e8-bfe1-98e12854ee7d)
 
-Este repositorio contiene una máquina virtual configurada en DockerLabs para propósitos de pentesting. 
+Este repositorio contiene una máquina configurada en Docker propósitos de pentesting. 
 La máquina está diseñada para ofrecer un entorno seguro y controlado donde practicar técnicas de penetración y pruebas de seguridad.
 
 ## Configuración de la Máquina Virtual
