@@ -22,7 +22,7 @@ Esta máquina virtual incluye:
 Puedes descargar la máquina virtual desde el siguiente enlace:
 - DockerLabs: [DockerLabs](https://dockerlabs.es/#/)
 
-[Descargar VM](https://mega.nz/file/ZXckGSob#QBn80M3tFNTrKCJwZ1lIh-9Rafx5sdlG3lyCT9FPYes)
+[Descargar Directa](https://mega.nz/file/ZXckGSob#QBn80M3tFNTrKCJwZ1lIh-9Rafx5sdlG3lyCT9FPYes)
 
 Una vez descargada, puedes importarla y ejecutarla en DockerLabs siguiendo las instrucciones específicas de Docker o la plataforma que estés utilizando.
 
